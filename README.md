@@ -1,6 +1,11 @@
 # Musica - A MERN Firebase Music App
 
+## Landing Page
+[alt text](./previews/Image1.png)
 
+## Home
+
+## Add New Songs
 
 ## Usage
 
